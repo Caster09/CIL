@@ -1,0 +1,580 @@
+<mxfile host="app.diagrams.net" modified="2023-04-24T14:05:48.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="a_4qvVkA1oK4lWF6SyfZ" version="21.2.1" type="device">
+  <diagram name="第 1 页" id="E8oEpTzGUvyuNaN51fWy">
+    <mxGraphModel dx="1143" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="584.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="634.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="684.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="734.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="784.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="834.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="884.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="934.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="984.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7a7374;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1034.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-58" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1" source="lFroKfWNAPlT9c4xP5ak-37" target="lFroKfWNAPlT9c4xP5ak-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="130" as="sourcePoint" />
+            <mxPoint x="260" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-59" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;dashed=1;dashPattern=1 4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="80" as="sourcePoint" />
+            <mxPoint x="184.74" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-60" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="180" as="sourcePoint" />
+            <mxPoint x="184.74" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-61" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="230" as="sourcePoint" />
+            <mxPoint x="184.74" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-62" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="280" as="sourcePoint" />
+            <mxPoint x="184.74" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-63" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="330" as="sourcePoint" />
+            <mxPoint x="184.74" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-64" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="380" as="sourcePoint" />
+            <mxPoint x="184.74" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-65" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="430" as="sourcePoint" />
+            <mxPoint x="184.74" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-66" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="480" as="sourcePoint" />
+            <mxPoint x="184.74" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-67" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="530" as="sourcePoint" />
+            <mxPoint x="184.74" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-69" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lFroKfWNAPlT9c4xP5ak-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="580" as="sourcePoint" />
+            <mxPoint x="184.74" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-70" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="639.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="594.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-71" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="684.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="644.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-72" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="734.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="694.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-73" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="784.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="744.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-74" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="834.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="794.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-75" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="884.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="844.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-76" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="934.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="894.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-77" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="984.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="944.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-78" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="1034.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="994.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-79" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7a7374;strokeWidth=3;opacity=75;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.74" y="1084.5" as="sourcePoint" />
+            <mxPoint x="184.74" y="1044.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-86" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前2800年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="75" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-102" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1" source="lFroKfWNAPlT9c4xP5ak-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="95" as="sourcePoint" />
+            <mxPoint x="230" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-103" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="134.69" as="sourcePoint" />
+            <mxPoint x="230" y="134.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-104" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="184.69" as="sourcePoint" />
+            <mxPoint x="230" y="184.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-105" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="234.69" as="sourcePoint" />
+            <mxPoint x="230" y="234.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-106" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="284.69" as="sourcePoint" />
+            <mxPoint x="230" y="284.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-107" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="334.69" as="sourcePoint" />
+            <mxPoint x="230" y="334.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-108" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="384.69" as="sourcePoint" />
+            <mxPoint x="230" y="384.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-109" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="434.69" as="sourcePoint" />
+            <mxPoint x="230" y="434.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-110" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="484.69" as="sourcePoint" />
+            <mxPoint x="230" y="484.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-111" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="534.69" as="sourcePoint" />
+            <mxPoint x="230" y="534.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-112" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="589.19" as="sourcePoint" />
+            <mxPoint x="230" y="589.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-113" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="639.19" as="sourcePoint" />
+            <mxPoint x="230" y="639.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-114" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="689.19" as="sourcePoint" />
+            <mxPoint x="230" y="689.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-115" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="739.19" as="sourcePoint" />
+            <mxPoint x="230" y="739.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-116" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="789.19" as="sourcePoint" />
+            <mxPoint x="230" y="789.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-117" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="839.19" as="sourcePoint" />
+            <mxPoint x="230" y="839.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-118" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="889.19" as="sourcePoint" />
+            <mxPoint x="230" y="889.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-119" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="939.19" as="sourcePoint" />
+            <mxPoint x="230" y="939.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-120" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="989.19" as="sourcePoint" />
+            <mxPoint x="230" y="989.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-121" value="" style="endArrow=none;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5e616d;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1039.19" as="sourcePoint" />
+            <mxPoint x="230" y="1039.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-122" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前2137年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="125" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-123" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前2200年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="175" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-124" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前2100年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="225" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-125" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前2000年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="275" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-126" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前1950年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="325" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-127" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前1831年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="374.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-128" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前1700年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="424.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-129" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前14世纪&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="474.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-130" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前720年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="524.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-131" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前650年-550年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="40" y="574.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-132" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前613年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="629.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-133" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前585年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="679.75" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-134" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前6世纪&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="729.75" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-135" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前5世纪-4世纪&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="40" y="779.75" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-136" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前350年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="829.75" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-137" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前4世纪&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="879.75" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-138" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前4世纪-3世纪&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="40" y="929.75" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-139" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前250年&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="979.25" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-140" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;公元前1世纪&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=7;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1029.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-141" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;古埃及人建立金字塔&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="75" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-142" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国有日食记录，这也是世界上最早的日食记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="125" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-143" value="&lt;font face=&quot;Times New Roman&quot;&gt;美索不达米亚地方有制造玻璃的记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="175" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-144" value="&lt;font face=&quot;Times New Roman&quot;&gt;美索不达米亚人使用60进位制，并分辨出五个行星与恒星&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="225" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-145" value="&lt;font face=&quot;Times New Roman&quot;&gt;古埃及人提出10进制计数法，以及简单面积、体积的计算法&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="275" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-146" value="&lt;font face=&quot;Times New Roman&quot;&gt;古巴比伦数学相当发达，已能解比较复杂的方程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="325" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-147" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国有这一年泰山的地震记录，是世界上最早的世界记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="375" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-148" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊进入青铜时代&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="425" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-149" value="中国商朝甲骨文有日、月食的常规记录" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="475" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-150" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊出现精炼铁&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="525" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-151" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊人发现摩擦起电、磁石吸铁的现象&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="579.5" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-153" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国春秋时期有哈雷彗星的最早记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="629.5" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-154" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊泰勒斯成功预测日全食&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="679.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-155" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊毕达哥拉斯学派发现无理数&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="729.5" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-156" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国春秋时期的《墨经》中有关于光学、力学、数学的讨论，包括世界上最早的小孔成像实验，杠杆平衡等内容&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="779.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-157" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国战国时期编制出石氏星表&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="829.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-158" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国战国时期《黄帝内经》问世；&lt;br&gt;古希腊亚里士多德有关动物学、数学、物理学的专门研究；&lt;br&gt;古希腊德谟克利特提出原子学说&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="879.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-159" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊欧几里得建立几何体系；&lt;br&gt;古希腊阿基米德提出浮力定律、杠杆定律以及二次曲线、螺线&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="929.5" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-160" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国战国时期有磁指南仪“司南”的记载&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="979.5" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-161" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国秦汉时期《周髀算经》包含大量天文、数学论证&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1029.5" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-163" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;古埃及人建立金字塔&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="74.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-164" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国有日食记录，这也是世界上最早的日食记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="124.5" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-165" value="&lt;font face=&quot;Times New Roman&quot;&gt;美索不达米亚地方有制造玻璃的记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="174.5" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-166" value="&lt;font face=&quot;Times New Roman&quot;&gt;美索不达米亚人使用60进位制，并分辨出五个行星与恒星&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="224.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-167" value="&lt;font face=&quot;Times New Roman&quot;&gt;古埃及人提出10进制计数法，以及简单面积、体积的计算法&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="274.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-168" value="&lt;font face=&quot;Times New Roman&quot;&gt;古巴比伦数学相当发达，已能解比较复杂的方程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="324.5" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-169" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国有这一年泰山的地震记录，是世界上最早的世界记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="374.5" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-170" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊进入青铜时代&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="424.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-171" value="中国商朝甲骨文有日、月食的常规记录" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="474.5" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-172" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊出现精炼铁&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="524.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-173" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;古埃及人建立金字塔&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="74.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-174" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国有日食记录，这也是世界上最早的日食记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="124.5" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-175" value="&lt;font face=&quot;Times New Roman&quot;&gt;美索不达米亚地方有制造玻璃的记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="174.5" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-176" value="&lt;font face=&quot;Times New Roman&quot;&gt;美索不达米亚人使用60进位制，并分辨出五个行星与恒星&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="224.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-177" value="&lt;font face=&quot;Times New Roman&quot;&gt;古埃及人提出10进制计数法，以及简单面积、体积的计算法&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="274.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-178" value="&lt;font face=&quot;Times New Roman&quot;&gt;古巴比伦数学相当发达，已能解比较复杂的方程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="324.5" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-179" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国有这一年泰山的地震记录，是世界上最早的世界记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="374.5" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-180" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊进入青铜时代&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="424.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-181" value="中国商朝甲骨文有日、月食的常规记录" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="474.5" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-182" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊出现精炼铁&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="524.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-183" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国春秋时期有哈雷彗星的最早记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="629.5" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-184" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊人发现摩擦起电、磁石吸铁的现象&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="579.5" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-185" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊泰勒斯成功预测日全食&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="679.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-186" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊毕达哥拉斯学派发现无理数&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="729.5" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-187" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国春秋时期的《墨经》中有关于光学、力学、数学的讨论，包括世界上最早的小孔成像实验，杠杆平衡等内容&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="779.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-188" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国战国时期编制出石氏星表&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="829.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-189" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国战国时期《黄帝内经》问世；&lt;br&gt;古希腊亚里士多德有关动物学、数学、物理学的专门研究；&lt;br&gt;古希腊德谟克利特提出原子学说&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="879.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-190" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊欧几里得建立几何体系；&lt;br&gt;古希腊阿基米德提出浮力定律、杠杆定律以及二次曲线、螺线&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="929.5" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-191" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国战国时期有磁指南仪“司南”的记载&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="979.5" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-192" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;古埃及人建立金字塔&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="74.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-193" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国有日食记录，这也是世界上最早的日食记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="124.5" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-194" value="&lt;font face=&quot;Times New Roman&quot;&gt;美索不达米亚地方有制造玻璃的记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="174.5" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-195" value="&lt;font face=&quot;Times New Roman&quot;&gt;美索不达米亚人使用60进位制，并分辨出五个行星与恒星&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="224.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-196" value="&lt;font face=&quot;Times New Roman&quot;&gt;古埃及人提出10进制计数法，以及简单面积、体积的计算法&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="274.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-197" value="&lt;font face=&quot;Times New Roman&quot;&gt;古巴比伦数学相当发达，已能解比较复杂的方程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="324.5" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-198" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国有这一年泰山的地震记录，是世界上最早的世界记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="374.5" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-199" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊进入青铜时代&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="424.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-200" value="中国商朝甲骨文有日、月食的常规记录" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="474.5" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-201" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊出现精炼铁&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="524.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-202" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国春秋时期有哈雷彗星的最早记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="629.5" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-203" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊人发现摩擦起电、磁石吸铁的现象&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="579.5" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-204" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊泰勒斯成功预测日全食&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="679.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-205" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊毕达哥拉斯学派发现无理数&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="729.5" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-206" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国春秋时期的《墨经》中有关于光学、力学、数学的讨论，包括世界上最早的小孔成像实验，杠杆平衡等内容&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="779.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-207" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国战国时期编制出石氏星表&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="829.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-208" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国战国时期《黄帝内经》问世；&lt;br&gt;古希腊亚里士多德有关动物学、数学、物理学的专门研究；&lt;br&gt;古希腊德谟克利特提出原子学说&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="879.5" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-209" value="&lt;font face=&quot;Times New Roman&quot;&gt;古希腊欧几里得建立几何体系；&lt;br&gt;古希腊阿基米德提出浮力定律、杠杆定律以及二次曲线、螺线&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="929.5" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lFroKfWNAPlT9c4xP5ak-210" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国战国时期有磁指南仪“司南”的记载&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="979.5" width="290" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
